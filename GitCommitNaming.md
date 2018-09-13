@@ -34,7 +34,4 @@ Scope could be anything specifying place of the commit change. For example $loca
 * just as in <subject> use imperative, present tense: “change” not “changed” nor “changes”
 * includes motivation for the change and contrasts with previous behavior
 
-http://365git.tumblr.com/post/3308646748/writing-git-commit-messages
-http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
-
 ### Message footer
