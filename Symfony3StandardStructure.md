@@ -29,6 +29,7 @@ Symfony's standard structure
         * Entity/
         * Repository/
         * EventListener/
+        * Security
         * Resources/
             * config/
             * views/
